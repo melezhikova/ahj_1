@@ -1,5 +1,3 @@
-# Webpack5
+# ahj_1
 
-[Информация о релизе Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)
-
-[Migration Guide](https://webpack.js.org/migrate/5/)
+[![CircleCI](https://circleci.com/gh/melezhikova/ahj_1/tree/master.svg?style=svg)](https://circleci.com/gh/melezhikova/ahj_1/tree/master)
